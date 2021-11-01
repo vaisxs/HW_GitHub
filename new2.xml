@@ -1,6 +1,11 @@
-  <person>
-<name>Иванова Светлана</name>
-<age>23</age>
-<pets>3</pets>
-<salary>60000</salary>
-   </person>
+<person>
+  <name>Иванова Светлана</name>
+  <age>23</age>
+  <pets>3</pets>
+  <salary>60000</salary>
+  <movie>Человеческая многоножка</movie>
+  <series>Санта-Барбара</series>
+  <food>Роллтон с говядиной</food>
+  <season>Лето</season>
+  <country>Лесото</country>
+</person>
